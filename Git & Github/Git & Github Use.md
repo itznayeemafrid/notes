@@ -72,6 +72,11 @@
 - **Undo commited changes (for many commits):** `git reset --hard <commit_hash>`
 
 
+#### Remove Old GitHub Credentials from Windows
 
+1. Press the **Windows Key**, type **Credential Manager**, and open it.
+2. Click on **Windows Credentials**.
+3. Look for any entries under **Generic Credentials** that mention GitHub (e.g., `git:[https://github.com](https://github.com)` or similar).
+4. Click on them and select **Remove**.
 
 
